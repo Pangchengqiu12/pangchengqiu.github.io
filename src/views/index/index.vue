@@ -3,7 +3,7 @@
     <div class="logo">
       <div class="main">
         我是李伟111
-        <!-- <img src="../../assets/wallhaven-yxvqdd.jpg" alt="" /> -->
+        <img src="../../assets/wallhaven-yxvqdd.jpg" alt="" />
       </div>
     </div>
   </div>
