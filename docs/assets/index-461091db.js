@@ -1,1 +1,0 @@
-import{_,o,c as t,p as a,a as c,b as s}from"./index-ccdd87a2.js";const d=e=>(a("data-v-ef9e4406"),e=e(),c(),e),n=d(()=>s("div",{class:"logo"},[s("div",{class:"main"}," 我是李伟 ")],-1)),p=[n],i={__name:"index",setup(e){return(l,r)=>(o(),t("div",null,p))}},f=_(i,[["__scopeId","data-v-ef9e4406"]]);export{f as default};

@@ -1,0 +1,1 @@
+import{_ as s,o as _,c as o,p as t,a as c,b as a}from"./index-f9cdc12a.js";const d=e=>(t("data-v-86b88aea"),e=e(),c(),e),n=d(()=>a("div",{class:"logo"},[a("div",{class:"main"}," 我是李伟111 ")],-1)),p=[n],i={__name:"index",setup(e){return(l,r)=>(_(),o("div",null,p))}},v=s(i,[["__scopeId","data-v-86b88aea"]]);export{v as default};

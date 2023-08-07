@@ -32,7 +32,7 @@ export default defineConfig({
   //     },
   //   },
   // },
-  build: {
-    outDir: 'docs',
-  },
+  // build: {
+  //   outDir: 'docs',
+  // },
 })
