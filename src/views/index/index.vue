@@ -1,5 +1,12 @@
 <template>
-  <div>李伟</div>
+  <div>
+    <div class="logo">
+      <div class="main">
+        我是李伟
+        <!-- <img src="../../assets/wallhaven-yxvqdd.jpg" alt="" /> -->
+      </div>
+    </div>
+  </div>
 </template>
 
 <script setup>
@@ -14,4 +21,16 @@
 // }
 </script>
 
-<style lang="scss" scoped></style>
+<style lang="scss" scoped>
+.logo {
+  display: flex;
+  .main {
+    min-width: 0;
+    img {
+      max-width: 100%;
+      height: auto;
+      object-fit: cover;
+    }
+  }
+}
+</style>
